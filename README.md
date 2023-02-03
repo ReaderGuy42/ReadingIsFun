@@ -9,10 +9,11 @@ E.g. if I really enjoy a book, I can give it 11 stars instead of the usual maxim
 In the attempt to move away from Goodreads, I’ve been working on emulating several of their functions, such as the scatter chart of the years of publications of books read. 
 
 In this example vault I’ve intentionally kept the books to a minimum, as this is just supposed to be a tech-demo, because with the amount of books I currently have in their Dataview will take up to a minute to render tables, etc. Therefore the scatter chart found in [[Reading Stats]] is pretty minimal. But it can also look like this, if you enter more books:
-![[scatter.png]]
+![Scatter Chart](/Trackers%20and%20Galleries/Things/Attachments/Images/scatter.png)
 Thanks to the awesome [Chartsview Plugin](https://github.com/caronchen/obsidian-chartsview-plugin) for making this possible!
 
-Then there’s also the chart that shows the amount of books you’ve read over time: ![[years.png]]
+Then there’s also the chart that shows the amount of books you’ve read over time:
+![Year Chart](/Trackers%20and%20Galleries/Things/Attachments/Images/years.png)
 
 This is courtesy of an awesome redditor who really helped me out with this last year.
 
