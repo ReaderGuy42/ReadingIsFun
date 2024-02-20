@@ -4,7 +4,7 @@ I like reading. I enjoy tracking what I read, and have been using Goodreads sinc
 a) your stuff stays your stuff, 
 b) it’s more flexible. 
 
-E.g. if I really enjoy a book, I can give it 11 stars instead of the usual maximum of 11. 
+E.g. if I really enjoy a book, I can give it 11 stars instead of the usual maximum of 10. 
 
 In the attempt to move away from Goodreads, I’ve been working on emulating several of their functions, such as the scatter chart of the years of publications of books read. 
 
